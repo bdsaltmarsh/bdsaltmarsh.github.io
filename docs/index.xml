@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on BD Saltmarsh Information</title>
+    <link>https://bdsaltmarsh.github.io/docs/</link>
+    <description>Recent content in Docs on BD Saltmarsh Information</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="https://bdsaltmarsh.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gold Ledger</title>
+      <link>https://bdsaltmarsh.github.io/docs/gold_ledger/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdsaltmarsh.github.io/docs/gold_ledger/</guid>
+      <description>Initial Document.</description>
+    </item>
+    
+    <item>
+      <title>Items</title>
+      <link>https://bdsaltmarsh.github.io/docs/items/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdsaltmarsh.github.io/docs/items/</guid>
+      <description>Initial Document.</description>
+    </item>
+    
+    <item>
+      <title>NPCs</title>
+      <link>https://bdsaltmarsh.github.io/docs/npcs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdsaltmarsh.github.io/docs/npcs/</guid>
+      <description>Initial Document.</description>
+    </item>
+    
+    <item>
+      <title>Places</title>
+      <link>https://bdsaltmarsh.github.io/docs/places/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdsaltmarsh.github.io/docs/places/</guid>
+      <description>Saltmarsh#</description>
+    </item>
+    
+    <item>
+      <title>Player Controlled Characters</title>
+      <link>https://bdsaltmarsh.github.io/docs/player_characters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdsaltmarsh.github.io/docs/player_characters/</guid>
+      <description>Initial Page</description>
+    </item>
+    
+  </channel>
+</rss>
