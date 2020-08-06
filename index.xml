@@ -33,7 +33,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://bdsaltmarsh.github.io/docs/items/</guid>
-      <description>Initial Document.</description>
+      <description>Items of Note#Boat Items#Ship Rations:# 25 days of ship rations.  Quest/Adventure Items#Alchemy Book# Currently Held by Varanus  Alchemy Powder# Page 42 Currently held by Telinax  Amber Gemstones (15)# Currently held by Telinax  Bag of Holding# Currently held by Brian.  Book of Herbs# Currently held by Varanus  Book of Gems# Currently held by Varanus  Broom of Flying# Currently held by Elron  Cat Stone# Currently held by Varanus  Diary from Dwarven Mines# Scarin is currently copying.</description>
     </item>
     
     <item>
@@ -42,7 +42,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://bdsaltmarsh.github.io/docs/npcs/</guid>
-      <description>NPC Notes#Saltmarsh NPCs#Eliander# A member of the Saltmarsh town council. A &amp;ldquo;Kingsman&amp;rdquo; &amp;ndash; sent to Saltmarsh to attempt to bring it more under the King&amp;rsquo;s control. Talks very slowly and deliberately  Skeeziks#</description>
+      <description>NPC Notes#Saltmarsh NPCs#Anders Solmor# A young local noble, human. A member of the Saltmarsh town council. Very energetic and excitable.  Captain Xendros# Lizardfolk Female Runs the &amp;ldquo;Faithful Quartermaster&amp;rsquo;s of Iuz&amp;rdquo; shop. Sells/acquires random magical objects.  Eliander# A member of the Saltmarsh town council. A &amp;ldquo;Kingsman&amp;rdquo; &amp;ndash; sent to Saltmarsh to attempt to bring it more under the King&amp;rsquo;s control.</description>
     </item>
     
     <item>
@@ -61,6 +61,15 @@
       
       <guid>https://bdsaltmarsh.github.io/docs/player_characters/</guid>
       <description>Initial Page</description>
+    </item>
+    
+    <item>
+      <title>Quests</title>
+      <link>https://bdsaltmarsh.github.io/docs/quests/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdsaltmarsh.github.io/docs/quests/</guid>
+      <description>Initial Document.</description>
     </item>
     
   </channel>
